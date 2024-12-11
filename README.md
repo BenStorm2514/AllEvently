@@ -125,7 +125,7 @@ For queries, feedback, or collaboration opportunities, contact us at [Open Issue
 2. [Requirements Document PDF](./Documents/Requirements%20Document%20(AllEvently).pdf)
 3. [Design Document PDF and Appendices](./Documents/Design%20Document%20(AllEvently).pdf)
     - [Appendix – Block Diagram](Documents/Block%20Diagram.png)
-    - [Appendix – Component Diagram](Documents/AllEventlyClassDiagram.pdf)
+    - [Appendix – Component Diagram](Documents/AllEventlyClassDiagram.png)
     - [Appendix – User Interface Storyboard](Documents/AllEventlyUIStoryboard.drawio.png)
     - [Appendix – Message Documentation (Inside Design Document)](./Documents/Design%20Document%20(AllEvently).pdf)
     - [Appendix – Entity Relationship Diagram](Documents/Database/AllEventlyERD.pdf)
