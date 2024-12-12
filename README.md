@@ -118,6 +118,7 @@ For queries, feedback, or collaboration opportunities, contact us at [Open Issue
 6. [Progress Update Document (Editable)](Documents/Progress_Update_Document.docx)
 7. [Progress Update Slides (Editable)](Documents/Progress_Update_Slides.pptx)
 8. [Poster (Editable)](Documents/AllEvently%20Poster.pptx)
+9. [Final Report (Editable)](Documents/AllEvently%20Final%20Report.pptx)
 
 ---
 ### PDF/PNG Documents
@@ -131,6 +132,7 @@ For queries, feedback, or collaboration opportunities, contact us at [Open Issue
     - [Appendix – Entity Relationship Diagram](Documents/Database/AllEventlyERD.pdf)
 4. [Progress Update Document PDF](./Documents/Progress%20Update%20Document%20(AllEvently).pdf)
 5. [Poster PDF](./Documents/Poster%20Document%20(AllEvently).pdf)
+6. [Report Presentation PDF](./Documents/Report%20Presentation.pdf)
 
 ---  
 ### Slides/PowerPoints
