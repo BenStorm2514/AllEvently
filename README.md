@@ -118,7 +118,8 @@ For queries, feedback, or collaboration opportunities, contact us at [Open Issue
 6. [Progress Update Document (Editable)](Documents/Progress_Update_Document.docx)
 7. [Progress Update Slides (Editable)](Documents/Progress_Update_Slides.pptx)
 8. [Poster (Editable)](Documents/AllEvently%20Poster.pptx)
-9. [Final Report (Editable)](Documents/AllEvently%20Final%20Report.pptx)
+9. [Final Report (Editable)](Documents/AllEvently%20Final%20Report.docx)
+10. [Report Presentation (Editable)](Documents/Report%20Final.pptx)
 
 ---
 ### PDF/PNG Documents
